@@ -475,14 +475,7 @@ That is a differentiated and timely idea. The winning design should avoid becomi
 [12]: https://developers.openai.com/commerce "Agentic Commerce Protocol | OpenAI Developers"
 [13]: https://www.agenticcommerce.dev/ "Agentic Commerce Protocol"
 [14]: https://ucp.dev/ "Universal Commerce Protocol - Universal Commerce Protocol (UCP)"
-[15]: https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/ "
-            
-            Under the Hood: Universal Commerce Protocol (UCP)
-            
-            
-            \- Google Developers Blog
-            
-        "
+[15]: https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/ "Under the Hood: Universal Commerce Protocol (UCP)\- Google Developers Blog"
 [16]: https://corporate.visa.com/en/products/intelligent-commerce.html "Enabling AI agents to buy securely and seamlessly | Visa"
 [17]: https://www.mastercard.com/us/en/business/artificial-intelligence/mastercard-agent-pay.html "Mastercard Agent Pay: secure, scalable and trusted agentic AI | Mastercard US"
 [18]: https://www.mastercard.com/global/en/news-and-trends/stories/2026/agentic-commerce-rules-of-the-road.html "Building trust in AI commerce: Mastercard’s agentic protocols | Mastercard Global"
