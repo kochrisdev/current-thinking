@@ -1,2 +1,2 @@
 # Current Thinking ...
-Writing ideas, sharing thoughts and shaping concepts
+Writing thoughts down, sharing ideas and (re)shaping concepts
